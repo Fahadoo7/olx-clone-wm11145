@@ -1,0 +1,38 @@
+body{
+    font-size: 14px;
+    font-family: '';
+}
+h1,h2,h3,h4,h5,h6{margin: 0px;padding: 0px;font-weight: normal;}
+.fixed{position: fixed;}
+.rel{position: relative;}
+.abs{position: absolute;}
+.sticky{position: sticky;}
+input,button,select,textarea{outline: none;}
+.b1{display: block;}
+.bil{display: inline block;}
+.colr{color: black;}
+
+.flex{display: flex;}
+.aic{align-items: center;}
+
+
+.font  {font-weight: normal;}
+.fonta {font-weight: 300;}
+.fontb {font-weight: 700;}
+
+.s12{font-size: 12px;}
+.s13{font-size: 13px;}
+.s14{font-size: 14px;}
+.s15{font-size: 15px;}
+.s16{font-size: 16px;}
+.s18{font-size: 18px;}
+.s20{font-size: 20px;}
+.s22{font-size: 22px;}
+.s24{font-size: 24px;}
+.s30{font-size: 30px;}
+
+.noul{text-decoration: none;}
+.noulh:hover{text-decoration:underline ;}
+.grey{
+    background-color: lightgray;
+}
